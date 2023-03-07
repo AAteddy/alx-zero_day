@@ -1,1 +1,1 @@
-echo "creating up_to_date file"
+git pull origin
